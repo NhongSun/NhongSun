@@ -44,7 +44,7 @@
 
 <div flex align="center">
   <img alt='GitHub stats' height=200 src='https://github-readme-stats.vercel.app/api/?username=nhongsun&hide=stars&show_icons=true&theme=radical' />
-  <img alt='Top Langs' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=nhongsun&layout=compact&theme=radical' />
+  <img alt='Top Langs' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=nhongsun&layout=compact&theme=radical&exclude_repo=ComEngEss-Final-Project' />
 </div>
 
 <!-- 
