@@ -42,10 +42,15 @@
 
 ## GitHub Stats
 
-<div flex align="center">
-  <img alt='GitHub stats' height=200 src='https://github-readme-stats.vercel.app/api/?username=nhongsun&hide=stars&show_icons=true&theme=radical' />
-  <img alt='Top Langs' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=nhongsun&layout=compact&theme=radical&exclude_repo=ComEngEss-Final-Project&hide=jupyter%20notebook' />
+<div flex align='center'>
+  <img alt='GitHub stats' height=200 src='https://github-readme-stats-git-master-kchanatips-projects.vercel.app/api/?username=nhongsun&hide=stars&show_icons=true&theme=radical' />
+  <img alt='Top Langs' height=200 src='https://github-readme-stats-git-master-kchanatips-projects.vercel.app/api/top-langs/?username=nhongsun&layout=compact&theme=radical&exclude_repo=ComEngEss-Final-Project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5' />
 </div>
+<!-- https://github-readme-stats-git-master-kchanatips-projects.vercel.app -->
+<!-- <div flex align="center">
+  <img alt='GitHub stats' height=200 src='https://github-readme-stats.vercel.app/api/?username=nhongsun&hide=stars&show_icons=true&theme=radical' />
+  <img alt='Top Langs' height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=nhongsun&layout=compact&theme=radical&exclude_repo=ComEngEss-Final-Project&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5' />
+</div> -->
 
 <!-- 
 ![Kchanatipz's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kchanatipz&hide=stars&show_icons=true&theme=radical)
